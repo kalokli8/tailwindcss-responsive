@@ -11,6 +11,6 @@
 - plugins: register new styles for Tailwind to inject into the user’s stylesheet using JavaScript instead of CSS.
 
 ## input.css
-- used to convert to output.css
+- convert to output.css
 - add directives e.g.
 - (@apply, to add custom classes)  
